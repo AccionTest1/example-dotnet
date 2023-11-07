@@ -4,7 +4,7 @@ An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
 ccccc
 ## Try me!
 
-For running scan install .NetFramework and msbuild ccc
+For running scan install .NetFramework and msbuild cccxx
 
 ### Windows
 
