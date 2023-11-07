@@ -1,10 +1,10 @@
 # [:] Example Dotnet Project
 
-An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
+An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.ccc
 
 ## Try me!
 
-For running scan install .NetFramework and msbuild 
+For running scan install .NetFramework and msbuild ccc
 
 ### Windows
 
